@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VictorGarGen&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true" alt="Fausto's github stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGarGen&count_private=true&theme=maroongold&include_all_commits=true" alt="Fausto's most used languages stats" />
+
+</div>
+
 <!--
 **VictorGarGen/VictorGarGen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
